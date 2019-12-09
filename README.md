@@ -9,6 +9,7 @@
 
 <br />
 
+
 ## Features
 
 - **Rapid scaffolding**: Simply use `graphql create` (from the [GraphQL CLI](https://github.com/graphql-cli/graphql-cli)) to download the boilerplate you want.
