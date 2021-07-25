@@ -28,8 +28,4 @@ Select a boilerplate and follow the instructions in the belonging README to get 
 
 All projects are based on [`graphql-yoga`](https://github.com/graphcool/graphql-yoga/) & [Apollo Client](https://github.com/apollographql/apollo-client).
 
-## Contributing
 
-The GraphQL boilerplates are maintained by the GraphQL community, with official support from the [Apollo](https://dev-blog.apollodata.com) & [Graphcool](https://blog.graph.cool/) teams.
-
-Your feedback is **very helpful**, please share your opinion and thoughts! If you have any questions or want to contribute yourself, join the [`#graphql-boilerplate`](https://graphcool.slack.com/messages/graphql-boilerplate) channel on our [Slack](https://graphcool.slack.com/).
